@@ -1,0 +1,4 @@
+Hello, user! Welcome to the RSD github created by CampSpawn! Here you can find archives of games you want to exploit.
+For example, Lumber Tycoon 2. This game is a popular target and is great for learning about exploiting. There are multiple .rbxl files-
+-you may open to find an exploit, or just looking around the dump. We archive every single version, so you can just look back and see-
+-if there are any other vulnerable exploits.
