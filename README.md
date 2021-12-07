@@ -21,6 +21,9 @@ https://web.roblox.com/games/5865858426/Retail-Tycoon-2
 Speed Man Simulator:
 https://web.roblox.com/games/7065731541/Classic-Pixel-Speedman-Simulator
 
+Bulked Up:
+https://web.roblox.com/games/6847090259/Bulked-Up
+
 GAMES UNSUCCESSFULLY DUMPED:
 
 pog no games refused.
