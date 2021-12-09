@@ -3,6 +3,9 @@
 
 GAMES SUCCESSFULLY DUMPED:
 
+Tower Of Hell:
+https://web.roblox.com/games/1962086868/Tower-of-Hell
+
 Lumber Tycoon 2:
 https://web.roblox.com/games/13822889/Lumber-Tycoon-2
 
